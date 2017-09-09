@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PersonalAssistant</string>
+    <string name="title_activity_yuyinshuru_ui">YuyinshuruUI</string>
+    <string name="first_tip">Hi</string>
+</resources>

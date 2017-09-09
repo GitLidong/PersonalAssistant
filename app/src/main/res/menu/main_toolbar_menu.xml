@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/main_toolbar_item1"
+        app:showAsAction="never"
+        android:title="语音输入"/>
+
+    <item android:id="@+id/main_toolbar_item2"
+        app:showAsAction="never"
+        android:title="私人日记"/>
+
+    <item android:id="@+id/main_toolbar_item3"
+        app:showAsAction="never"
+        android:title="个人设置"/>
+
+    <item android:id="@+id/main_toolbar_item4"
+        app:showAsAction="never"
+        android:title="退出"/>
+</menu>
